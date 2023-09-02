@@ -1,0 +1,16 @@
+{
+  "name": "test_app_universe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "backend:dev": "cd backend && npm run develop",
+    "frontend:dev": "cd frontend && npm run dev",
+    "all:dev": "concurrently \"npm run backend:dev\" \"npm run frontend:dev\""
+  },
+  "author": "Maksym Nemera",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
