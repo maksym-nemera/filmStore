@@ -137,24 +137,29 @@ If you would like to contribute to this project, you can follow these steps:
    ```shell
    git switch -c feature/your-feature
    ```
-5. Install packages:
+5. Use nvm version 20:
+   ```shell
+   nvm use 20
+   ```
+
+6. Install packages:
    ```shell
    npm i
    ```
-6. Start the project **(will run both frontend and backend at the same time)**:
+7. Start the project **(will run both frontend and backend at the same time)**:
    ```hell
    npm run all:dev
    ```
-7. Make your changes and test them locally.
-8. Commit your changes:
+8. Make your changes and test them locally.
+9. Commit your changes:
    ```shell
    git commit -m 'Add some feature'
    ```
-9. Push the branch to your forked repository:
+10. Push the branch to your forked repository:
    ```shell
    git push origin feature/your-feature
    ```
-10. Open a pull request in this repository.
+11. Open a pull request in this repository.
 
 ## Contact
 
