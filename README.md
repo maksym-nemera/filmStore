@@ -10,13 +10,13 @@ In this project, you can add movies to the list that will be stored in the datab
 
 - Easy addition of new movies:
   - click **Create new entry** in the right up corner
-    ![content_manager-page](./docPhotos/content_manager-page.png)
+    ![content_manager-page](https://github.com/maksym-nemera/filmStore/assets/81112084/c5827abf-c6d2-4b28-83e6-cddfe1239f82)
   - add required data, add photos in **cover** that should be in _/backend/public/uploads_, and then take the link to each photo and add to images JSON data
-    ![add-new-film](./docPhotos/add-new-film.png)
+    ![add-new-film](https://github.com/maksym-nemera/filmStore/assets/81112084/b9b9d820-7d89-405d-b0d6-c4fb1f20030b)
   - Click save and then publish in the right up corner
-    ![save-and-publish](./docPhotos/save-and-publish.png)
+    ![save-and-publish](https://github.com/maksym-nemera/filmStore/assets/81112084/920e0177-f3f3-48b3-8ca0-ace63619ad6b)
   - check it out on the front side on [http://localhost:4321/](http://localhost:4321/) <br>
-    ![list-of-films](./docPhotos/list-of-films.png)
+    ![list-of-films](https://github.com/maksym-nemera/filmStore/assets/81112084/72188f85-20d1-46f5-afbf-8801a3394b2f)
 
 ## Endpoints
 
