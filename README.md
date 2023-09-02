@@ -9,6 +9,7 @@ In this project, you can add movies to the list that will be stored in the datab
 ## Features
 
 - Easy addition of new movies:
+
   - click **Create new entry** in the right up corner
     ![content_manager-page](https://github.com/maksym-nemera/filmStore/assets/81112084/c5827abf-c6d2-4b28-83e6-cddfe1239f82)
   - add required data, add photos in **cover** that should be in _/backend/public/uploads_, and then take the link to each photo and add to images JSON data
@@ -18,6 +19,12 @@ In this project, you can add movies to the list that will be stored in the datab
   - check it out on the front side on [http://localhost:4321/](http://localhost:4321/) <br>
     ![list-of-films](https://github.com/maksym-nemera/filmStore/assets/81112084/72188f85-20d1-46f5-afbf-8801a3394b2f)
 
+- Easy add category-relationship to the film:
+  - you could create a new entry and add films to a new category or you could add movies to the existing category
+    ![conten-manager-page-category](https://github.com/maksym-nemera/filmStore/assets/81112084/fd9ee9a7-23b3-40be-9ab3-6d8fc12c3bef)
+  - pick films in the list to the relationship
+    ![add-film-to-category](https://github.com/maksym-nemera/filmStore/assets/81112084/05148f8f-0bd3-40ad-a5ca-39a5e56152ab)
+  - Click save and then publish in the right up corner
 ## Endpoints
 
 The base URL for the API is: **[BASE_URL](http://localhost:1337/)**
